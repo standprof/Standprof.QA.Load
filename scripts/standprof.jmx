@@ -505,7 +505,7 @@
             <connectTime>true</connectTime>
           </value>
         </objProp>
-        <stringProp name="filename">~/results/summary_${__time(yyyyMMdd_HHmm)}.jtl</stringProp>
+        <stringProp name="filename">~/../results/summary_${__time(yyyyMMdd_HHmm)}.jtl</stringProp>
       </ResultCollector>
       <hashTree/>
       <DebugPostProcessor guiclass="TestBeanGUI" testclass="DebugPostProcessor" testname="Debug PostProcessor" enabled="true">
